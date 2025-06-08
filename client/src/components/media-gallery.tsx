@@ -27,7 +27,7 @@ export default function MediaGallery() {
     {
       id: 'image2',
       type: 'image',
-      src: 'https://mynakedselfie.com/image/94d9W',
+      src: 'https://files.catbox.moe/42er2x.jpeg',
       title: 'العمارة الحديثة',
       timeAgo: 'قبل 3 أيام',
       views: 1205,

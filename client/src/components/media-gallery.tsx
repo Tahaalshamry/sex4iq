@@ -27,7 +27,7 @@ export default function MediaGallery() {
     {
       id: 'image2',
       type: 'image',
-      src: 'https://images.unsplash.com/photo-1511818966892-d7d671e672a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300',
+      src: 'https://mynakedselfie.com/image/94d9W',
       title: 'العمارة الحديثة',
       timeAgo: 'قبل 3 أيام',
       views: 1205,

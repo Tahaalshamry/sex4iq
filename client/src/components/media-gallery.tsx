@@ -18,7 +18,7 @@ export default function MediaGallery() {
     {
       id: 'image1',
       type: 'image',
-      src: 'https://images.unsplash.com/photo-1541961017774-22349e4a1262?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=300',
+      src: 'https://files.catbox.moe/42er2x.jpeg',
       title: 'فن الشارع المعاصر',
       timeAgo: 'قبل يومين',
       views: 892,

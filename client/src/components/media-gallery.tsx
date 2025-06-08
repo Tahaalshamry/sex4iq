@@ -29,7 +29,7 @@ export default function MediaGallery() {
       type: 'image',
       src: 'https://files.catbox.moe/42er2x.jpeg',
       title: 'العمارة الحديثة',
-      timeAgo: 'قبل 3 أيام',
+      timeAgo: 'قبل 44 أيام',
       views: 1205,
       likes: 67
     },
